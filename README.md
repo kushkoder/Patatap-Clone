@@ -1,2 +1,8 @@
-# Patatap-Clone
-Patatap Clone is an animation project using animation packages such as paper.js and howler.js. An animated circular object(having different shades varying with each frame) appears on the screen for every letter key pressed. The circular object becomes smaller with time and soon disappears into the black background. A sound effect has been incorporated for each event ie. pressing of the letter key. 
+Neuronal Synchrony
+==================
+
+A collection of two dimensional animations that are triggered by sound.
+
+(c) 2012 - 2013 [jonobr1](http://jonobr1.com/). Freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
+
+Prototyped with [Processing](http://processing.org/), built with [JavaScript](http://jonobr1.github.com/two.js).

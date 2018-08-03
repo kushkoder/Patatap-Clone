@@ -1,0 +1,2 @@
+# Patatap-Clone
+Patatap Clone is an animation project using animation packages such as paper.js and howler.js. An animated circular object(having different shades varying with each frame) appears on the screen for every letter key pressed. The circular object becomes smaller with time and soon disappears into the black background. A sound effect has been incorporated for each event ie. pressing of the letter key. 
